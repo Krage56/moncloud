@@ -33,6 +33,14 @@
         - <a href="/assets/pdf/rid-oop.pdf">Отечественная облачная платформа 1.0</a>, №2024687182
 
 
+- title: Сертификаты совместимости
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - <a href="/assets/pdf/Сертификат совместимости Сервер.pdf">Сертификат совместимости с сервером Ядро</a>
+        - <a href="/assets/pdf/Сертификат совместимости Cinder Driver.pdf">Сертификат совместимости с драйвером Cinder для СХД TATLIN.UNIFIED</a>
+
 - title: Условия предоставления прав и стоимость программного обеспечения
   type: nested_list
   contents:
