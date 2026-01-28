@@ -33,13 +33,17 @@
         - <a href="/assets/pdf/rid-oop.pdf">Отечественная облачная платформа 1.0</a>, №2024687182
 
 
-- title: Сертификаты совместимости
+- title: Сертификаты совместимости облачной платформы moncloud
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - <a href="/assets/pdf/moncloud+Trinity.pdf">Сертификат совместимости с серверами Тринити поколений М7 и М8</a>
     - year: 2025
       items:
-        - <a href="/assets/pdf/Сертификат совместимости Сервер.pdf">Сертификат совместимости с сервером Ядро</a>
-        - <a href="/assets/pdf/Сертификат совместимости Cinder Driver.pdf">Сертификат совместимости с драйвером Cinder для СХД TATLIN.UNIFIED</a>
+        - <a href="/assets/pdf/moncloud+Yadro_G4208P_G3.pdf">Сертификат совместимости с сервером Yadro® G4208P G3</a>
+        - <a href="/assets/pdf/moncloud+TATLIN_UNIFIED.pdf">Сертификат совместимости с СХД Yadro® TATLIN.UNIFIED</a>
+        - <a href="/assets/pdf/moncloud+mind_migrate.pdf">Сертификат совместимости с ПО Mind Migrate от MIND Software</a>
 
 - title: Условия предоставления прав и стоимость программного обеспечения
   type: nested_list
